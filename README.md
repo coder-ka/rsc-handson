@@ -262,7 +262,7 @@ RSCでは、状態を保持したり、イベントハンドラ等のインタ�
 
 このような処理は**クライアントコンポーネント**を作成し、分離します。
 
-`TodoCreationform.tsx`
+`components/TodoCreationForm.tsx`
 
 ```tsx
 "use client"
